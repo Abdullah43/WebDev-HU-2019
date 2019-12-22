@@ -1,5 +1,7 @@
-# WebDev-HU-2019
-## Online Medical Store
+## CS-370 Web and Mobile Development Project
+## Habib University - Fall 2019 
+
+# Online Medical Store
 
 ### Instructions
 1. Download Project from repo or this link: https://drive.google.com/open?id=1VRWAjnlPEVcaL1rKtTM8jDccWzyly7IV
