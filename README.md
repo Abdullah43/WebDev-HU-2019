@@ -9,7 +9,7 @@
 3. Run si03481_webdev.sln
 
 ### Completion of Project Scope
-The project does not encompasses online checkout payment and thus does not updates orders table in our Database, as
+The project does not encompasses online checkout payment and thus does not update orders table in our Database, as
 described in the proposal. It also does not include User Account Registration and Login. Rest of the proposed has been 
 completed.
 
