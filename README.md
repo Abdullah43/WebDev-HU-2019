@@ -16,24 +16,24 @@ The project was entirely done by si03481 - Syed Muhammed Abdullah Iqbal
 
 ### Sample Run
 
-![run1](Images/run1.png)
+![](Images/run1.PNG)
 
-![run2](Images/run2.png)
+![](Images/run2.PNG)
 
-![run3](Images/run3.png)
+![](Images/run3.PNG)
 
-![run4](Images/run4.png)
+![](Images/run4.PNG)
 
-![run5](Images/run5.png)
+![](Images/run5.PNG)
 
-![run6](Images/run6.png)
+![](Images/run6.PNG)
 
-![run7](Images/run7.png)
+![](Images/run7.PNG)
 
-![run8](Images/run8.png)
+![](Images/run8.PNG)
 
-![run9](Images/run9.png)
+![](Images/run9.PNG)
 
-![run10](Images/run10.png)
+![](Images/run10.PNG)
 
-![run11](Images/run11.png)
+![](Images/run11.PNG)
